@@ -14,7 +14,7 @@ Resposta:
 Public int retornaAnguloRelogio (int hora, int minuto) { // Implementar o restante do método
 abaixo
 
-"""
+Considerações:
 P Horas:
 30 graus - 1 hora
 x graus - h horas
@@ -36,4 +36,4 @@ z = m/2
 
 angulo = |y-(x+z)|
 angulo = |(11m-60h)/2|
-"""
+
