@@ -37,3 +37,5 @@ z = m/2
 angulo = |y-(x+z)|
 angulo = |(11m-60h)/2|
 
+O código Java foi implementado sem a utilização da biblioteca Scanner. Sendo assim, substitui a informação por número aleatório entro do limite de horas. 
+
